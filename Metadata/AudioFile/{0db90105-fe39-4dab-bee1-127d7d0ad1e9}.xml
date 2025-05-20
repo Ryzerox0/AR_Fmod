@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{0db90105-fe39-4dab-bee1-127d7d0ad1e9}">
+		<property name="assetPath">
+			<value>Title Screen - Face Raiders.mp3</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>73.795918367346943</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{ff4401b8-9754-459f-be49-476386f7006b}</destination>
+		</relationship>
+	</object>
+</objects>
